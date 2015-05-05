@@ -1,0 +1,6 @@
+# fips-cereal
+---
+
+exports:
+    header-dirs:
+        - cereal
